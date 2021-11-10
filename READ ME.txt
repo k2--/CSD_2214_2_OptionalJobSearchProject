@@ -1,0 +1,5 @@
+1)The Database structure can be found in the tbl_applicants.sql file
+2)Will need the Resumes folder in the root directory to store files uploaded by users
+3)Adjust the dbconfig.php file with you mysql connection details.
+4)Use the <URL Path>\Viewapp.php page to views all applications
+5)Use the <URL Path>\Newapp.php page to upload a new application
